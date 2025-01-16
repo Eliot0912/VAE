@@ -6,7 +6,6 @@ Ce projet utilise un Auto-Encodeur Variationnel (VAE) pour générer des images 
 
 - `data/` : Contient les données MNIST.
 - `notebooks/` : Contient les notebooks Jupyter.
-- `src/` : Contient les scripts Python.
 - `demo/` : Contient une démonstration pour mieux comprendre l'article.
 
 ## Installation
