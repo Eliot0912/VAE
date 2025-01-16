@@ -1,1 +1,15 @@
-# VAE
+# MNIST VAE Project
+
+Ce projet utilise un Auto-Encodeur Variationnel (VAE) pour générer des images de chiffres manuscrits à partir du dataset MNIST et reconstruire une image MNIST grâce à l'autoencodeur.
+
+## Structure du projet
+
+- `data/` : Contient les données MNIST.
+- `notebooks/` : Contient les notebooks Jupyter.
+- `src/` : Contient les scripts Python.
+
+## Installation
+
+1. Clonez le dépôt :
+   ```sh
+   git clone https://github.com/Eliot0912/VAE.git
