@@ -13,3 +13,4 @@ Ce projet utilise un Auto-Encodeur Variationnel (VAE) pour générer des images 
 1. Clonez le dépôt :
    ```sh
    git clone https://github.com/Eliot0912/VAE.git
+2. Exécuter le main_notebook.ipynb et si problème d'import éxécuter main_notebook_secours.ipynb
